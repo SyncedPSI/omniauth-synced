@@ -2,7 +2,7 @@
 
 require 'omniauth/synced/version'
 require 'omniauth-oauth2'
-require 'patch/omniauth-oauth2'
+require 'omniauth/patch/omniauth-oauth2'
 require 'omniauth/strategies/geekpark'
 require 'omniauth/strategies/wechat'
 require 'omniauth/strategies/wechat_service'
