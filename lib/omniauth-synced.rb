@@ -1,0 +1,7 @@
+require 'omniauth-synced/version'
+require 'omniauth-oauth2'
+require 'patch/omniauth-oauth2'
+require 'omniauth/strategies/wechat'
+require 'omniauth/strategies/wechat_service'
+require 'omniauth/strategies/weibo'
+require 'omniauth/strategies/synced'
